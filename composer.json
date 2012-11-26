@@ -1,0 +1,26 @@
+{
+    "name": "rithis/xspf",
+    "description": "DOMDocument wrapper for XSPF playlist",
+    "keywords": ["dom", "xspf"],
+    "homepage": "https://github.com/rithis/xspf",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vyacheslav Slinko",
+            "email": "vyacheslav.slinko@rithis.com",
+            "role": "Founder"
+        }
+    ],
+    "support": {
+        "email": "support@rithis.com",
+        "issues": "https://github.com/rithis/xspf/issues",
+        "wiki": "https://github.com/rithis/xspf/wiki",
+        "source": "https://github.com/rithis/xspf"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rithis\\XSPF": ""
+        }
+    },
+    "target-dir": "Rithis/XSPF"
+}
